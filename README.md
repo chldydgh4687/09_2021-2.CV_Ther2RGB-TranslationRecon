@@ -26,4 +26,4 @@
 
 ---
 
-#### This repo was contributed by https://github.com/sjmin99/Ther2RGB-Translation
+#### This repo was referenced by https://github.com/sjmin99/Ther2RGB-Translation
