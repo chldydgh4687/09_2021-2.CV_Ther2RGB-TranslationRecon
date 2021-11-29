@@ -17,7 +17,7 @@
 
 ---
 
-### performance to be emable to learn  
+### Performance to be enable to learn  
 
 - Wandb monitoring.
 - Pix2PixHD Network & Loss.
