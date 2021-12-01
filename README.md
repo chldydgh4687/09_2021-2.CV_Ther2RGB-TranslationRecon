@@ -24,7 +24,7 @@
 - Wandb monitoring.
 - Pix2PixHD Network & Loss.
 - Dataloader Using class __ getitem __.
-- efficient parameter parsing to source code.
+- Efficient parameter parsing to source code.
 
 --- 
 
