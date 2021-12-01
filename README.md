@@ -32,6 +32,10 @@
 
 ![1234](https://user-images.githubusercontent.com/11037567/144221219-5ae54d8e-f7c3-4905-b7c7-08ede4bf22bb.PNG)
 
+### WanDB Monitoring
+
+<img width="902" alt="5845854" src="https://user-images.githubusercontent.com/11037567/144223376-fc59014f-1d3d-4769-ba92-4f0efbb92e85.PNG">
+
 --- 
 
 #### This repo was referenced by https://github.com/sjmin99/Ther2RGB-Translation
