@@ -1,4 +1,4 @@
-# 09_2021-2.CV_Ther2RGB-TranslationRecon_pytorch
+# 09_2021-2.CV_Ther2RGB-TranslationRecon
 
 ---
 
