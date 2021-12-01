@@ -29,6 +29,7 @@
 --- 
 
 ### EvalAI LeaderBoard
+- Environment : Windows10, 3090RTX, pytorch-nightly
 
 ![1234](https://user-images.githubusercontent.com/11037567/144221219-5ae54d8e-f7c3-4905-b7c7-08ede4bf22bb.PNG)
 
