@@ -30,7 +30,7 @@
 
 ### EvalAI LeaderBoard
 - Environment : Windows10, 3090RTX, pytorch-nightly
-- trained_model_link : https://www.dropbox.com/s/1bomldev67zhee0/tested.zip?dl=0
+- Trained_model_link : https://www.dropbox.com/s/1bomldev67zhee0/tested.zip?dl=0
 - Predicted_Submission.npy_link : https://www.dropbox.com/s/psp507e2d4q1ce7/21110389_submit.npy?dl=0
 
 ![1234](https://user-images.githubusercontent.com/11037567/144221219-5ae54d8e-f7c3-4905-b7c7-08ede4bf22bb.PNG)
