@@ -42,3 +42,5 @@
 --- 
 
 #### This repo was referenced by https://github.com/sjmin99/Ther2RGB-Translation
+InClass : https://github.com/sejongresearch/ComputerVision
+EvalAIStarters : https://github.com/sejong-rcv/EvalAI-Starters
