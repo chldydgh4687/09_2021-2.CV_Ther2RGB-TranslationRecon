@@ -7,15 +7,11 @@
 
 ---
 
-### Pix2PixHD
+### How to do learning in this task?
 
----
+
 
 ### Loss
-
----
-
-### How to do learning in this task?
 
 ---
 
