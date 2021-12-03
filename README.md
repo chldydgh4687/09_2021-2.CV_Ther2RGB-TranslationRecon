@@ -8,10 +8,14 @@
 ---
 
 ### How to do learning in this task?
+![568568568](https://user-images.githubusercontent.com/11037567/144613928-e3ccd2a0-f7a9-4c42-85a2-236026c778b1.png)
 
 
 
 ### Loss
+- Improved GANLoss(using Feature Maching Loss(Multi-Scale Discriminator Loss)) 
+- VGGLoss
+- l1Loss or Smoothl1Loss
 
 ---
 
